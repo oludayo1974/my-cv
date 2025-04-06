@@ -1,0 +1,129 @@
+body{
+    margin: 40px;
+
+}
+
+.container-fluid{
+    padding: 1% 15%;
+    margin: 0 20px 0;
+    
+    
+}
+
+
+.my-education{
+    width: 80%;
+  
+}
+
+.data{
+    width: 80%;
+}
+
+.career-cert{
+    width: 80%;
+}
+
+.skills{
+    width: 80%;
+}
+     
+
+.on-the-job{
+    width: 100%;
+    background-color: rgb(206, 209, 230);
+    padding: 2%;
+}
+
+.experience{
+    width: 80%;
+}
+
+.projects{
+    width: 100%;
+    background-color: rgb(184, 228, 180);
+    padding: 2%;
+}
+
+.status{
+    width: 100%;
+    background-color: rgb(206, 209, 230);
+    padding: 2%;
+    
+}
+
+.certified{
+    background-color: #cce7df;
+    width: 80%;
+
+}
+
+.excellence{
+    width: 80%;
+    padding: 2%;
+}
+
+    
+.carousel-item{
+height: 680px;
+width: 100%;
+padding: 7% 15%;
+}
+
+h4{
+line-height: 1.5;
+}
+
+
+.skill{
+    background-color: rgb(184, 228, 180);
+    padding: 2%;
+    margin: 2px 5px;
+    
+}
+
+.cell{
+margin: 2px 5px;
+
+}
+
+
+.my-pics{
+    padding: 2%;
+}
+
+.contact-me{
+    text-align: center;
+    padding-top: 2%;
+}
+
+.footer-link{
+    margin: 7px;
+}
+
+.btn {
+    background: #1e99eb;
+    background-image: -webkit-linear-gradient(top, #1e99eb, #78a6c2);
+    background-image: -moz-linear-gradient(top, #1e99eb, #78a6c2);
+    background-image: -ms-linear-gradient(top, #1e99eb, #78a6c2);
+    background-image: -o-linear-gradient(top, #1e99eb, #78a6c2);
+    background-image: linear-gradient(to bottom, #1e99eb, #78a6c2);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #97bbcc;
+    background-image: -webkit-linear-gradient(top, #97bbcc, #87c2d6);
+    background-image: -moz-linear-gradient(top, #97bbcc, #87c2d6);
+    background-image: -ms-linear-gradient(top, #97bbcc, #87c2d6);
+    background-image: -o-linear-gradient(top, #97bbcc, #87c2d6);
+    background-image: linear-gradient(to bottom, #97bbcc, #87c2d6);
+    text-decoration: none;
+  }
