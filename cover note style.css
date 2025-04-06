@@ -1,0 +1,50 @@
+.fagbemi{
+    color: blue;
+    margin: 0px;
+    position: relative;
+    left: 150px;
+    top: 40px;
+   
+}
+
+.years{
+    background-color: rgba(214, 223, 228, 0.849);
+    padding: 10px;
+}
+
+
+body{
+   text-align: justify;
+   width: 60%;
+   margin: auto;
+   line-height: 2;
+}
+
+
+
+
+.headings{
+    
+    margin: 30px;
+    
+   
+}
+
+.website{
+    background-color: rgba(214, 223, 228, 0.849);
+}
+
+.head{
+    background-color: rgb(184, 228, 180);
+}
+
+.cover-note{
+    background-color: rgba(214, 223, 228, 0.849);
+    padding: 10px;
+    
+}
+
+
+.myself{
+    color: blue;
+}
