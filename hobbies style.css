@@ -1,14 +1,29 @@
+
+body{
+    background-color: #04385a;
+    width: 100%;
+    padding: 3rem;
+}
+
 .hobbies{
-  
-    background-color: rgb(206, 209, 230);
     padding: 10px;
     width: 80%;
     margin: 5px 10px;
+    color: #fff;
+    background-color: #1673c0;
+
 }
 
 .jogging{
-    background-color: rgb(184, 228, 180);
+    
     padding: 10px;
-    width: 80%;
+    width: 100%;
     margin: 5px 10px;
+    color: #fff;
+    background-color: #04385a;
+
+}
+
+.pics{
+    padding: 10px;
 }
