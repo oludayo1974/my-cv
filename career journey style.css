@@ -1,32 +1,67 @@
 body{
-    width: 70%;
-    margin: auto;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: #04395c;
+color: #fff;
+width: 70%;
+line-height: 1.5;
+padding: 20px 120px 20px;
 }
 
 .career{
-    background-color: rgba(214, 223, 228, 0.849);
+    background-color: #021233;
+    color: #fff;
+    text-align: center;
+    margin: 2%;
+    
+    
 }
 
 .started{
-    background-color: rgb(206, 209, 230);
+    background-color: #1673c0;
     padding: 5px 5px;
+    color: #fff;
+    margin: 0 2% 0;
+}
+
+.appointment{
+    
+    padding: 5px 5px;
+    color: #fff;
+    margin: 0 2% 0;
 }
 
 .achievement{
-    background-color:  rgb(184, 228, 180);
+    background-color:  #1673c0;
     padding: 5px 5px;
+    color: #fff;
+    margin: 0 2% 0;
 }
 
 .conceptual{
-    background-color: rgb(206, 209, 230);
-    padding-top: 8px 5px;
+    
+    padding-top: 20px;
+    color: #fff;
+    margin: 0 2% 0;
 }
 
 .technical{
-    background-color:  rgb(184, 228, 180);
+    background-color:  #1673c0;
     padding: 5px 5px;
+    color: #fff;
+    margin: 0 2% 0;
 }
 
 .conclusion{
-    background-color: rgb(206, 209, 230);
+    
+    color: #fff;
+    margin: 0 2% 0;
+}
+
+.my-pix{
+    margin: 19px;
+    
+}
+
+.identity{
+    line-height: 1;
 }
