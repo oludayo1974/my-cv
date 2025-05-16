@@ -1,50 +1,95 @@
-.fagbemi{
-    color: blue;
-    margin: 0px;
-    position: relative;
-    left: 150px;
-    top: 40px;
-   
-}
-
-.years{
-    background-color: rgba(214, 223, 228, 0.849);
-    padding: 10px;
-}
-
 
 body{
-   text-align: justify;
-   width: 60%;
-   margin: auto;
-   line-height: 2;
+    background-color: #04385a;
+    color: #fff;
+   width: 70%;
+   line-height: 1.5;
+   padding: 3%;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30px;
+}
+
+.head{
+    line-height: 1;
+}
+
+.fagbemi{
+    color: #fff;
+    margin: 2%;
+   
+    top: 40px;
+    text-align: left;
+   
+}
+   
+
+
+.note{
+width: 95%;
+margin: 2%;
+
+background-color: #1673c0;
+padding: 2rem 1rem 1rem;
 }
 
 
+
+.past-future{
+width: 95%;
+margin: 2%;
+
+padding: 2rem 1rem 1rem;
+
+
+}
+
+  
+.story{
+    width: 95%;
+    margin: 2%;
+   
+
+}
 
 
 .headings{
+    text-align: left;
+    margin: 2%;
     
-    margin: 30px;
-    
+
    
 }
 
 .website{
-    background-color: rgba(214, 223, 228, 0.849);
+   
+    margin: 20px;
 }
 
-.head{
-    background-color: rgb(184, 228, 180);
+.cover{
+    text-align: left;
+    margin: 17px;
+   
+
 }
 
-.cover-note{
-    background-color: rgba(214, 223, 228, 0.849);
-    padding: 10px;
-    
-}
 
 
 .myself{
-    color: blue;
+    color: #fff;
+    margin: 2%;
+    line-height: 1;
+}
+
+.years{
+    width: 95%;
+    margin: 2%;
+    
+    background-color: #1673c0;
+    padding: 2rem 1rem 1rem;
+
+}
+
+
+.thank{
+    padding: 2rem 1rem 1rem;
 }
