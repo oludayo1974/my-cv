@@ -1,5 +1,8 @@
 body{
-    margin: 40px;
+    padding: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #04385a;
+    margin: 30px;
     
 
 }
@@ -7,9 +10,16 @@ body{
 .container-fluid{
     padding: 1% 15%;
     margin: 0 20px 0;
-    
-    
+  
 }
+
+
+.nav-link{
+    color: #04385a;
+}
+
+
+
 
 
 .my-education{
@@ -32,14 +42,14 @@ body{
 
 .on-the-job{
     width: 100%;
-    background-color: rgb(206, 209, 230);
+    background-color: #04385a;
     padding: 4%;
     color: #fff;
 }
 
 .experience{
     width: 100%;
-    background-color: #2c3532;
+    background-color: #1673c0;
     padding: 4%;
     color: #fff;
     line-height: 2;
@@ -47,7 +57,7 @@ body{
 
 .projects{
     width: 100%;
-    background-color: rgb(184, 228, 180);
+    background-color: #1673c0;
     padding: 4%;
     color: #fff;
 }
@@ -59,61 +69,68 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 
-
-        background: #3498db;
-        background-image: -webkit-linear-gradient(top, #3498db, #0ec758);
-        background-image: -moz-linear-gradient(top, #3498db, #0ec758);
-        background-image: -ms-linear-gradient(top, #3498db, #0ec758);
-        background-image: -o-linear-gradient(top, #3498db, #0ec758);
-        background-image: linear-gradient(to bottom, #3498db, #0ec758);
-        -webkit-border-radius: 8;
-        -moz-border-radius: 8;
-        border-radius: 8px;
-        font-family: Arial;
-        color: #f30404;
-        font-size: 20px;
-        padding: 10px 20px 10px 20px;
-        text-decoration: none;
-      }
-      
+      background: #3498db;
+      background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+      background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+      background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+      background-image: -o-linear-gradient(top, #3498db, #2980b9);
+      background-image: linear-gradient(to bottom, #3498db, #2980b9);
+      -webkit-border-radius: 8;
+      -moz-border-radius: 8;
+      border-radius: 8px;
+      font-family: Arial;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+    }
+    
+    
+         
       .status:hover {
         background: #3cb0fd;
-        background-image: -webkit-linear-gradient(top, #3cb0fd, #34d96e);
-        background-image: -moz-linear-gradient(top, #3cb0fd, #34d96e);
-        background-image: -ms-linear-gradient(top, #3cb0fd, #34d96e);
-        background-image: -o-linear-gradient(top, #3cb0fd, #34d96e);
-        background-image: linear-gradient(to bottom, #3cb0fd, #34d96e);
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
         text-decoration: none;
       }
-    
+
 
 
 .all-acquired{
     padding: 4%;
 }
 
+
 .certified{
-    background-color:#2c3532;
+    
     color: #fff;
-    width: 40%;
+    width: 60%;
     padding-left: 2%;
 
 }
 
 .excellence{
-    width: 80%;
+    width: 95%;
     padding: 2%;
     color: #fff;
 }
 
 .bio-data{
-    background-color:#2c3532;
+    background-color: #04385a;
     color: #fff;
     width: 100%;
-    padding: 4%;
+    padding: 4% 0 4%;
 
 }
 
+
+
+.employment{
+  color: yellow;
+}
     
 .carousel-item{
 color: #fff;
@@ -141,10 +158,16 @@ margin: 2px 5px;
 
 }
 
+.bio-data{
+  background-color: #04385a;
+}
+
 
 .my-pics{
     padding: 2%;
+    border-radius: 100%;
 }
+
 
 .btn {
     background: #55d0e6;
